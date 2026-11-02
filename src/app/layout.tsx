@@ -8,7 +8,7 @@ import "./globals.css";
 import { Providers } from "@/components/interactive";
 
 const site =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://projectflow-ai.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://projectflow-ai-workspace.vercel.app";
 export const metadata: Metadata = {
   metadataBase: new URL(site),
   title: "ProjectFlow AI | Projetos, agentes e governança",

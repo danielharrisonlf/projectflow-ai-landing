@@ -45,7 +45,7 @@ A demonstração não tem backend. IA, endpoint MCP e entregas de webhooks/notif
 
 ## Publicar
 
-Defina `NEXT_PUBLIC_SITE_URL` com a origem de produção caso use outro domínio. Ela alimenta canonical, Open Graph, robots e sitemap. A origem padrão é `https://projectflow-ai.vercel.app`.
+Defina `NEXT_PUBLIC_SITE_URL` com a origem de produção caso use outro domínio. Ela alimenta canonical, Open Graph, robots e sitemap. A origem padrão é `https://projectflow-ai-workspace.vercel.app`.
 
 ```powershell
 npm run typecheck
