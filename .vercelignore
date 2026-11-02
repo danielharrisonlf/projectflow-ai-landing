@@ -1,0 +1,8 @@
+evidence/
+tests/
+test-results/
+playwright-report/
+.git/
+README.md
+scripts/
+playwright.config.ts

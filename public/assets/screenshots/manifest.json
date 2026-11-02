@@ -1,0 +1,235 @@
+{
+  "sourceRepository": "https://github.com/danielharrisonlf/projectflow-ai-prototipo",
+  "sourceCommit": "34d2f52c6f578d303efeff69f47d0bedb5e16168",
+  "capturedAt": "2026-11-02T03:18:20.705Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "files": [
+    {
+      "file": "kanban-light.webp",
+      "route": "#/board",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 54876
+    },
+    {
+      "file": "kanban-light@2x.webp",
+      "route": "#/board",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 137466
+    },
+    {
+      "file": "mcp-light.webp",
+      "route": "#/mcp/test",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 73482
+    },
+    {
+      "file": "mcp-light@2x.webp",
+      "route": "#/mcp/test",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 179422
+    },
+    {
+      "file": "mcp-tools-light.webp",
+      "route": "#/mcp/tools",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 100460
+    },
+    {
+      "file": "mcp-tools-light@2x.webp",
+      "route": "#/mcp/tools",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 264960
+    },
+    {
+      "file": "mcp-history-light.webp",
+      "route": "#/mcp/runs",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 76486
+    },
+    {
+      "file": "mcp-history-light@2x.webp",
+      "route": "#/mcp/runs",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 202874
+    },
+    {
+      "file": "assistant-light.webp",
+      "route": "#/assistant",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 82368
+    },
+    {
+      "file": "assistant-light@2x.webp",
+      "route": "#/assistant",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 226508
+    },
+    {
+      "file": "insights-light.webp",
+      "route": "#/insights",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 59098
+    },
+    {
+      "file": "insights-light@2x.webp",
+      "route": "#/insights",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 144298
+    },
+    {
+      "file": "audit-light.webp",
+      "route": "#/insights/audit",
+      "theme": "light",
+      "width": 1440,
+      "height": 900,
+      "bytes": 64576
+    },
+    {
+      "file": "audit-light@2x.webp",
+      "route": "#/insights/audit",
+      "theme": "light",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 152252
+    },
+    {
+      "file": "kanban-dark.webp",
+      "route": "#/board",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 52416
+    },
+    {
+      "file": "kanban-dark@2x.webp",
+      "route": "#/board",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 126492
+    },
+    {
+      "file": "mcp-dark.webp",
+      "route": "#/mcp/test",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 70438
+    },
+    {
+      "file": "mcp-dark@2x.webp",
+      "route": "#/mcp/test",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 169636
+    },
+    {
+      "file": "mcp-tools-dark.webp",
+      "route": "#/mcp/tools",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 97354
+    },
+    {
+      "file": "mcp-tools-dark@2x.webp",
+      "route": "#/mcp/tools",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 252822
+    },
+    {
+      "file": "mcp-history-dark.webp",
+      "route": "#/mcp/runs",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 75448
+    },
+    {
+      "file": "mcp-history-dark@2x.webp",
+      "route": "#/mcp/runs",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 194012
+    },
+    {
+      "file": "assistant-dark.webp",
+      "route": "#/assistant",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 80924
+    },
+    {
+      "file": "assistant-dark@2x.webp",
+      "route": "#/assistant",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 216360
+    },
+    {
+      "file": "insights-dark.webp",
+      "route": "#/insights",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 56732
+    },
+    {
+      "file": "insights-dark@2x.webp",
+      "route": "#/insights",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 134470
+    },
+    {
+      "file": "audit-dark.webp",
+      "route": "#/insights/audit",
+      "theme": "dark",
+      "width": 1440,
+      "height": 900,
+      "bytes": 60106
+    },
+    {
+      "file": "audit-dark@2x.webp",
+      "route": "#/insights/audit",
+      "theme": "dark",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 141272
+    }
+  ]
+}
